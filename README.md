@@ -10,5 +10,12 @@
 
 **URL:** https://github.com/fariagiovana
 
-<img width="1378" alt="CapturaGithub" src="https://user-images.githubusercontent.com/124687949/218083848-24464af0-6aee-446c-8ad2-493301ac0bc4.png">
+<img width="689" alt="CapturaGithub" src="https://user-images.githubusercontent.com/124687949/218083848-24464af0-6aee-446c-8ad2-493301ac0bc4.png">
 
+## Información de Trello
+
+**URL:** https://trello.com/b/7ngWqhlX/pratica-1
+
+<img width="689" alt="trelloInicio" src="https://user-images.githubusercontent.com/124687949/218084961-00f0aea0-b430-49af-872d-9caaa26128f1.png">
+
+<img width="689" alt="trelloFinal" src="https://user-images.githubusercontent.com/124687949/218084976-6d9e477f-46f7-445c-9a53-ef48a9052472.png">
