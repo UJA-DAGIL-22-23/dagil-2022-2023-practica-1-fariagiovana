@@ -1,0 +1,24 @@
+{
+   "estudiante":[
+      {
+         "nombre":"Giovana",
+         "apellidos":[
+            "Figueiredo",
+            "Faria"
+         ],
+         "correo":"gf000019@red.ujaen.es",
+         "URLfoto":"https://user-images.githubusercontent.com/124687949/217921101-6c5c2cba-4bb9-4f80-813e-2dfb574c4918.jpeg"
+      }
+   ],
+   "Github":[
+      {
+         "usuario":"fariagiovana",
+         "URL":"https://github.com/fariagiovana"
+      }
+   ],
+   "Trello":[
+      {
+         "URL":"https://trello.com/b/7ngWqhlX/pratica-1"
+      }
+   ]
+}
